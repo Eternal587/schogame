@@ -1,6 +1,6 @@
 ## my file server (no touch)
 
-[Mario64](https://drive.google.com/file/d/1-ZUKU67ySM1tliTfz7YAES0Ne7bL4Ccq/view?usp=drivesdk)
+[Mario64](https://mega.nz/file/YIFzCQCT#pm0fb9Meuk5PYvNrH_EvbgUM0nYYUbqP7EzFuPSXj_w)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
