@@ -2,7 +2,7 @@
 
 [Mario64](https://mega.nz/file/YIFzCQCT#pm0fb9Meuk5PYvNrH_EvbgUM0nYYUbqP7EzFuPSXj_w)
 
-<a href="Super Mario 64 (U) [!].z64">or here</a>
+<a href="Friday Night Funkin VS Garcello Mod Unblocked Online.html">garcelo mod</a>
 
 ### Markdown
 
